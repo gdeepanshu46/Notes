@@ -1,0 +1,320 @@
+Union
+-Parliament is the law making body of the Union
+-it is bicameral, has two houses Lok Sabha and Rajya Sabha
+-ideally, tenure of LS is 5 years, tenure of RS is infinite as it is a permanent body
+-ideally, tenure of LS MPs is 5 years, tenure of RS MPs is 6 years
+-in every 5 years, fresh elections are called to fill the LS
+-in every 2 years, 1/3rd of the RS MPs retire, and new MPs are brought in
+-at any point of time, atleast 2/3rd of the RS is always filled
+-party that proves majority in LS forms the govt. their leader is made the P.M.
+-the P.M. chosen has to be the member of the Parliament, if he is not so, he has to become a member within 6 months
+-P.M. picks his council of ministers from LS/RS, collectively they are called Executives, or Govt. in layman's term
+-Executives are those who implement laws made by the Legislative
+-P.M. along with his council of ministers and a chain of officers (Bureaucracy) forms the Executives
+-P.M. along with his council of minsiters are Political Executives, while chain of officers are Permanent Excecutives
+-ministers chosen has to be a member of the Parliament, if not they have to be one withing next 6 months
+-not every MP is a minister, but every minister is an MP
+-P.M. can be from any of the house LS/RS, Manmohan Singh was from RS, Modi is from LK
+-LK only containes elected members, RS has both elected, nominated members
+-President nominates 12 members in the RS, who has exceptional knowledge in the field of Art/Literature/Science/Social Services
+-Sachin Tendulkar, Mary Kom were exceptions that were nominated in RS from the field of Sports by the Supreme Court
+-Constitutionally, Sports is not mentioned as the field to nominate someone
+-The amendment act of 104 removed the 2 seats of Anglo-Indians that were nominated in the LS
+
+State
+-Similar to Parliament, we have State Legislative Assembly in the states
+-6 states: UP, Bihar, Maharashtra, Karnataka, A.P., Telangana have 2 houses in the law making
+-rest all states only have 1 house of law making
+-the State Legislative Assembly and the State Legislative Council
+-the members of the SLA are only elected just like LS, called MLA
+-the members of the SLC are elected, nominated just like RS, called MLC
+-Governor nominates some MLCs from the field of Art/Literature/Science/Social Science/Co-operative movements
+-party that proves majority in the SLA forms the govt. 
+-C.M. choses his council of minister in a similar way
+
+Constitution
+-many countries have written constitution, while many have unwritten constitution
+-India, Srilanka, U.S. have written one, while U.K. NZ, etc have unwritten one 
+-this implies that countries like ours have laws written/codified in a book which we can call constitution
+-while other countries doesn't have such a book
+-they have various laws but not a single book called Constitution
+-Written Constitution is one whose articles and provisions are written/codified into a single legal document/book
+-in WC, distinct is made btw the provisions of Constitution and other laws
+-in WC, it is the Constitution which is supreme and all other organs(Parliament, Executive, Judiciary) of the state are suppose to follow it
+-in WC, Judiciary generally enjoys wider powers where it can declare an enactment/law of Parliament or action of Executive to be unconstitutional and thus nullified
+
+-WC is an enacted Constitution i.e. it was made by a special body at a specific point of time
+-WC may be rigid/flexible or a combination of both, in India, some parts can be changed easily, some with difficulty
+-countris with WC may be federal/unitary
+-Unwritten Constitution is one whose provisions are not codified/compiled into a single legal document/book
+-in UC, each and every enactment of the Parliament becomes part of their Constitution
+-i.e. there is no distinction btw Constitutional and other laws
+-in UC, Parliament is supreme because every enactment/law of the Parliament becomes their Constitution
+-in UC, Judiciary cannot declare an enactment of Parliament as unconstitutional
+-UC gives rise to unitary setup only
+-UC is always flexible because all it takes to change the Constitution is to bring a new law by Parliament
+-UC is an evolved one as it is an outcoming/efforts of many bodies over a period of time
+-before the Constitution was written, it was decided primarily what should be the theme/objective/purpose of our IC
+-Ojective Resolution was the document written by J.L. Nehru that served that basis
+-it was moved before the Constituent Assembly where it was voted and accepted upon
+-this document serverd as the basis on which the IC was written
+-Preamble is the document that forms the summary of the IC
+-Chronologically, the order was: Objective Resolution -> IC -> Preamble
+-In India, laws that are written in the IC are called Constitutinal laws such as fundamental duties etc
+-while laws not a part of the IC called Ordinary laws are inferior to these Constitutional laws, these are MNREGA, CAA etc
+-it implies that these laws support the Constitutional ones
+-CL are superior to OL because changing them is difficult and they act as a reference
+-in U.K., as there's no constitution, every law is equal and holds equal value
+
+Constitutionalism
+-Constitutionalism means as system with a limited govt. i.e. a governance setup whose powers are not arbitrary or unrestricted i.e. 
+it is a system having limited govt. 
+-example of max. absence of Constitutionalism are: Hitler from Germany, Saddam Hussain from Iraq, Kim Jong-un from N. Korea, Gaddafi from Libya
+-Hitler executed Jews whenever he wanted, Kim executes anybody he feels so
+-Unlimited govt. is one which concentrates maximum power of administration in few hands which leads to corruption, violation of human rights
+and encroachment/violation on the liberty of common man
+-the provisions which ensure Constitutionalism are
+-a democratically formed Constitution
+-separation of powers(SOP)
+-checks and balances
+-independent Judiciary
+-power of Judicial review
+-rule of law, fundamental rights and various tools of transparency like RTI, e-governace etc
+-Constitutionalism not only places limits on the powers of administration but it also requires that
+people of the society also fulfil their duties and they do not become disrespectful to the laws in the country
+-In India, political culture needs to improve with time so that the members of the govt. maintains self discipline and try not to break the law
+-even civil society in India is divided on the grounds of religion, race, caste, language etc
+-thus they do not put effective check on the govt. which weakens the idea of Constitutionalism
+
+Parliamentry v/s Presidential system of govt.
+--Parliamentary
+-executive is a part of legislature
+-here ministers are from Parliament only, or if not, they must become MP within a fixed time which in case of India is 6 months
+-the council of ministers is represented by PM and this body the true executive making all the most important decisions of administration
+-the President is the head of the state not having much real executive powers (decision making powers) and he is a nominal (name sake) head of the state 
+-the COM is responsible to the LS in case of India
+-it puts greater stress on the idea of responsible executive even if it is less stable 
+--Presidential
+-executive and legislature are two clearly 2 separate bodies
+-here ministers are not part of legislature and the President choses his team of ministers from amongst the citizens at large
+-President is the real head executive of the state who is also the head of the govt. having a ministerial cell (COM) to assist/guide him
+-President and his ministerial cell is not much responsible to the legislature
+-it puts greater stress on the idea of a stable executive even if it is less accountable to the legislature
+
+Separation of Power
+-the French philosopher Montesquieu gave the idea of SOP in which 3 organs of the state i.e. legislature, executive and judiciary
+shall be separated into water type compartments with an objective of preventing the state from becoming totalitarian (absolutely powerful)
+-thus individual liberty can be safeguarded 
+-USA was the first nation to implement this idea
+-India accepted the idea of SOP in a modified form called the principle of 'Checks and Balances'
+where all the 3 organs of the state i.e. legislature, executive and judiciary exercise some form of control over each other
+and thus all the three organs maintain a balance among each other and impose responsibility on each other
+-India follows Parliamentary system of govt. where executive is a part of legislature and thus pure SOP is not possible
+-SC in 1996 declared that the theory of SOP and the basic structure of the Constitution is an integral part of IC
+and thus both of them form the elements of basic structure of the IC
+
+Preamble
+-Preamble is regarded as the introduction or prelude (beginning) to the Constitution
+-it carries the essence/summary of the whole Constitution
+-it also contains the basic values which are found in the Constitution
+-according to D.D.Basu, it contains the philosophy or the theme of the Constitution
+-it contains the key to unravel the minds of Constitution makers and it tells us the intentions 
+they had in the mind regarding various provisions of the Constitution
+-it is in the form of a declaration but it does not confer any substantive powers on the organs of the govt.
+or citizens nor it limits those powers
+-it cannot overwrite specific provisions of the Constitution i.e. Preamble is subordinate to Constitution 
+if there's a clash btw an article of the Constitution and the Preamble then former shall prevail over the Preamble
+-as per SC if there is an ambiguity surrounding an article of the Constitution then that interpretation of the article
+may be used by the courts which tallies/matches with the Preamble
+-Preamble has an enacting clause where it declares that the Constitution of India was enacted and adopted on 26 Nov. 1949
+-Preamble of IC declares that the source of all the powers of the Constitution is the people of India themselves 
+i.e. Constitution arises from people only which means that Preamble indicates that people of India are the ultimate
+sovereign, however in Keher Singh vs Union of India case 1989, the statement was challenged that Constitution derives 
+its powers from people directly, but the court said that this statement that Constitution derives its powers from people 
+directly is a legal fiction but it is a conclusive assumption which cannot be tested or challenged in any 
+court of law and should be accepted as such 
+-Preamble contains the ideals and the aspirations of people of India
+-Ideals are the means to achieve the aspirations
+-5 ideals mentioned are Sovereignity, Socialist, Secular, Democratic, Republic
+-4 aspirations are Liberty, Justice, Equality and Fraternity
+-Preamble may help the judiciary in giving the legal interpretation of the Constitutional provisions
+Is Preamble part of the Constitution
+-the traditional view was that Preamble was not a part of the Constitution because even it is removed from the Constitution, 
+the Constitution would continue to function further unlike the Constitution, Preamble does not confer or limit the powers of the organs of the state
+and thus Preamble has a very limited role to play in the Constitution. SC in Berubari case 1960 held that Preamble was not a part of the Constitution
+but the modern view is that Preamble is considered to be part of the Constitution because only if Preamble is a part of Constitution 
+then only it can be amended under Article 368 to maintain a pace with the modern day Constitution and Parliamentary Philosophy, 
+therefore SC over wrote its earlier decision in Kesavananda Bharati vs State of Kerala case 1973 that Preamble is a part of Constitution
+
+Sovereignity
+-Sovereignity means that the country's govt is totally independent and it does not acknowledge any arbitrary power as supreme with 
+regard to the governance of the country either within its boundary or internationally
+-in the era of Liberalisation, Privatisation, Globalisation (LPG) when every country is a part of number of International Agreements, treaties
+and agencies it is said that countries have lost their freedom to take independent decisions which is a question mark on their soverignity
+and India is not an exception, however this argument may not be completely true particularly for India since even in the globalised world
+India is taking decisions keeping in mind the highest interest of people of India and its constitutional values and India does not agree to
+-India does not give in to any kind of arbitrary pressure, moreover in the National Interest if India has to put its foot down India does so 
+whether it was Dokhlam stand off or resisting the American pressure with regard to S400 missiles so largely the global factors have not 
+eroded the Sovereinity of India
+
+Secularism
+-Secularism means that the state does not acknowledge its closeness with any particular religion i.e. state shall not recognise any particular
+religion as the official religion of the country.
+-in Indian context, it means state is neither religious nor irreligious/anti-religious rather India is non-religious in character
+-in India, all the religion that have made India their home have the right to co-exist in the soil of India
+-most of the western countries like France or Germany also maintain a secular orientation since these countries also do not show 
+affiliation to any specific religion however unlike India where state promotes all the religions. In the west, state maintains a distance 
+from church/religion which means every religion for example- in west, if govt. takes decision, the decisions are taken for their objective
+value, however when in India, decisions are taken, the decisions do not ignore the religious sentiments or religious understanding of any religion
+-India actively promotes all the religion, whereas in west, state does not invest to promote in religion which includes all the religion
+if analysed deeply then the approach of secularism taken up by India is better than the secular approach of the west as it brings more security
+and consolation among the people of all the religions as they feel that state is there to protect their religious practices and religious sentiments
+
+Socialism
+-Socialism in general means that benefit of the societal resources should reach every member of the society 
+and nobody should be left out from enjoying the benefits of the resources. 
+-Also concentration of wealth in few hands should be prevented unlike USSR which tried to achieve socialistic goals 
+through the model called Marxist Socialism involving complete Nationalisation
+-in India we took up the model of Democratic Socialism or Fabian Socialism in which socialistic goals are to be achieved but through Democratic means 
+-in which private ownership and private businesses are also allowed besides govt. ownership and govt. enterprises (PSU) 
+-it is a case of mixed economy supported by policies like Progressive Taxation, Land Ceiling Act, and govt. run welfare schemes etc
+
+Democracy
+-Democracy is a system where people decide regarding the decisions of the govt.
+-in this context every member of the society should be allowed to express and be heard while making decisions of governance
+so in a way it is governance by the people
+-Democracy can be direct where people directly tell about their views regarding particular questions of governance however its not quiet practical 
+to implement direct democracy in India because of huge population and a big size of the population being illiterate so we follow indirect democracy 
+or representative democracy where people choose their representatives and these representatives take the decisions of governance on the behalf of people
+thus incorporating the views and the aspirations of every member of society in the decision making process though indirectly
+-Democracy is very crutial for the overall development of the country however certain threats or weaknesses particularly in Indian Democracy
+-for example, people choosing wrong representatives to become their voice in the governance system is a big threat however this often happen
+-this happens because criminal elements or non serious candidates becoming the voice of people which happens because many of them buy votes
+and some are brought to power by the misuse of muscle power
+-people voting for parochial factors like religion, race, caste, language, region can also bring wrong representatives to power which can 
+weaken democracy
+-people not excercising right to vote also weakens democracy
+-representatives not communicating with the group they represent also weakens democracy
+-however this vacuum can be filled through unbiased media
+-however considered the 4th pillar of democracy if becomes biased and corrupt then this can destabilize democracy and encourage people
+to take wrong decisions in future also 
+-misuse of various laws to suppress political dessent is also a threat to democracy
+-political defections for personal benefit will also weaken democracy 
+-illiteracy and poverty are also two weaknesses or threat to democracy
+--however the ray of hope lies in 
+-electoral reforms particularly to fight criminalisation of politics
+-making the anti-defection law effective
+-fighting fake news
+-independent and strong judiciary is a must for democracy
+-people voting more in number and voting responsibly will strengthen democracy
+-tools of accoutability like RTI and e-governance will also strengthen democracy
+
+Republic
+-Republic is a system where people are supreme and even the head of the state is elected by people and there is no hereditary ruler in the country
+
+Aspirations of Preamble
+--Justice
+-Preamble talks about comprehensive justice i.e. Political, Social and Economic Justice achieved through various provisions of the Constitution like
+-Political Justice achieved through right to vote and right to contest in the election under Article 326
+-Social Justice achieved through fundamentals rights under Article 14, 15, 17, 18 etc
+-Economic Justice achieved through various fundamental rights like right to vocation or various directive principles
+--Liberty
+-Liberty is the absence of arbitrary powers exercised by an individual or an institution against other individuals or group thereby allowing
+the individual or the group an opportunity to grow or achieve their full potential  
+--Equality
+-Preamble talks about equality of opportunity and equality of status
+--Fraternity
+-Fraternity is a sense of brotherhood that prevails among all the people of India which is very essential to promote the unity and integrity of India
+and save the dignity of individual
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Part 2
+Citizenship
+-A Citizen is an individual who enjoys the full membership of the country and he enjoys all the rights available in the country
+-there are some rights in India which are reseverd for Indian citizens only for example- the right under Article 15, 16, 19, 29, 30, 326 etc
+-the IC does not lay down permanent or detailed provisions regarding the citizenship in India 
+-Part 2 of the IC simply describes the classes of persons who would deamed to be the citizen of India at the commencement of the Constitution
+and has the detailing of the laws regarding citizenship onto Parliament
+-Article 11 of the IC confers the powers onto the Parliament to make laws on Citizenship and using this power Parliament enacted Indian Citizenship Act 1955
+which provides for the acquisition and termination of Indian Citizenship
+-the IC provides only for single citizenship and prohibits dual 
+-Indian Citizenship Act 1955 is based on 2 legal principles
+--1st is Jus Soli i.e. law of soil 
+--2nd is Jus Sanguine i.e. law of blood
+
+Indian Citizenship Act 1955 as amended from time to time provides for 5 ways through which 1 can acquire the Indian Citizenship
+1. Citizenship by birth
+-a person born in India >= 26 Jan 1950 and < 1 July 1987 is a citizen of India by birth irrespective of the Nationality of his parents
+-a person born in India >= 1 July 1987 and < 3 Dec 2004 is a citizen of India by birth if either of his parents is a citizen of India at the time of his birth
+-a person born in India >= 3 Dec 2004 is a citizen of India by birth if both the parents are citizen of India at the time of birth or if only 1 parent is 
+India citizen the other must not be illegal migrant at the time of birth
+--illegal migrant is a foreigner who entered India without a valid passport or proper documentation 
+
+2. Citizenship by descent
+-a person born outside India >= 26 Jan 1950 and < 10 Dec 1992 is a citizen of India by descent if his father was citizen of India at the time of his birth
+-a person born outside India >= 10 Dec 1992 and < 3 Dec 2004 is a citizen of India by descent if either of his parents was citizen of India at the time of his birth
+-a person born outside India >= 3 Dec 2004 is a citizen of India by descent if either of his parents was citizen of India at the time of his birth, and parents
+give an undertaking that the minor does not hold the passport of any other country and his birth must be registered at an Indian Counulate withing 1 year of birth
+
+3. Incorporation of territory
+-when a new territory is acquired by India then the individuals living there can have an option of adopting Indian Citizenship
+
+--all the above three categories of citizens are referred as Natural Born Citizens
+
+4. Citizenship through Registration
+-Indian citizenship through Registration can be acquired by an eligible applicant for example- 
+--a citizen of a commonwealth country
+--a foreigner who married Indian citizen
+--minor child of Indian parents etc
+-who is ordinarily residing in India for 7 years before making the application
+-of these 7 years, 1 year before he applies for the citizenship he must be living in India continuosly for 1 year
+and 8 years previous to that, his total stay in India must be minimum 6 years
+-for OCI, the period of stay in India is 1 year	
+
+5. Citizenship through Naturalisation
+-it can be acquired by foreigners who are ordinarily residing in India for 12 years
+-of these 12 years, he must be living in India continuously for 1 year before making the application and his stay in India
+14 years previous to this 1 year comes out to be of minimum 11 years
+
+Loss of Indian Citizenship
+
+1. Renunciation 
+-it is a volunatary act on the part of Indian Citizen who wants to surrender his Indian Citizenship 
+-Govt. of India may or may not accept the application of renunciation
+
+2. Termination
+-it is an act of law when an Indian Citizen obtains the citizenship of a foreign country but he does not surrender his Indian Citizenship
+-then the terminates his Indian Citizenship
+-it is not a punishment
+
+3. Deprivation
+-if a person obtains the Indian Citizenship through fraud, misrepresentation of facts, then he can be derprived of his Citizenship
+-if a person is residing out of India for 7 years or more without a proper reason or valid permission or he shows disloyalty to the IC 
+or unlawfully trades or communicates with an enemy country during war then he can be deprived of his Indian Citizenship
+-it is a punishment
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Federal vs Unitary
+-In a federal system, 2 forms of govt. co-exist and none is inferior to other as both derive their powers from Constitution itself
+-in a federal system, Constitution has to be written and it should divide the powers between Center and States and this division of powers 
+btw Center and States is binding upon both the Center as well as the States i.e. Constitution is supreme, also Federal Constitution are difficult
+to amend i.e. they are rigid by nature, this way the division of power btw Center and the States can be protected from any undue/unrequired change
+either by Center alone or by State alone rather if Constitution needs to be amended it must be amended with the mutual concent of both Center and States
+-in federal system to maintain the division of power btw Center and State and resolve the disputes over the division power btw them there must be an 
+independent arbitrator who must also have the power to interpret the Constitution, for ex - in India, Supreme Court is one such power
+-US, Australia, Canada
+
+-In Unitary system, there exists 1 supreme govt. i.e. at Center though State governments are there but they are only the administrative arms of Center
+working as per directions of Center
+-in Unitary system, Constitution may be written or unwritten
+-Unitarty system will have a flexible Constitution which can be changed by Parliament alone 
+-in Unitary system, Judiciary may not be that powerful, particularly with respect to its jurisdiction on the areas related to distribution of powers
+btw Center and States
+-France, Britain
+
+Nature of Indian Federal Constitution
+-experts believe that IC is federal, though some believe it is not truly federal rather it is quasi-federal or a federation with bias towards Unitarism
+-howerver SC said that whatever is the degree of federalism in IC, federalism is the part of basic structure of the IC
+-due to the following features, we can conclude that IC is a federal Constitution or atleast near to it

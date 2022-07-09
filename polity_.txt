@@ -1,3 +1,4 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Union
 -Parliament is the law making body of the Union
 -it is bicameral, has two houses Lok Sabha and Rajya Sabha
@@ -21,6 +22,7 @@ Union
 -Constitutionally, Sports is not mentioned as the field to nominate someone
 -The amendment act of 104 removed the 2 seats of Anglo-Indians that were nominated in the LS
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 State
 -Similar to Parliament, we have State Legislative Assembly in the states
 -6 states: UP, Bihar, Maharashtra, Karnataka, A.P., Telangana have 2 houses in the law making
@@ -32,6 +34,7 @@ State
 -party that proves majority in the SLA forms the govt. 
 -C.M. choses his council of minister in a similar way
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Constitution
 -many countries have written constitution, while many have unwritten constitution
 -India, Srilanka, U.S. have written one, while U.K. NZ, etc have unwritten one 
@@ -66,6 +69,19 @@ Constitution
 -CL are superior to OL because changing them is difficult and they act as a reference
 -in U.K., as there's no constitution, every law is equal and holds equal value
 
+Indian Constitution
+-IC is divided into parts, which contains articles
+-at enactment, it had 22 parts, 395 articles, 8 schedules
+-at present, it has 25 parts, 470 articles, 12 schedules
+-4 parts[IVA, IXA, IXB, XIVA] were added, 1 part[VII] was repealed
+-IVA: Fundamental Duties - Article 51A
+-IXA: Municipalities
+-IXB: Co-operative societies 
+-XIVA: Tribunals - Articles 323A to 323B
+-total 104 amendments are made till date
+-lastly added IXB by the 97th Amendment
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Constitutionalism
 -Constitutionalism means as system with a limited govt. i.e. a governance setup whose powers are not arbitrary or unrestricted i.e. 
 it is a system having limited govt. 
@@ -86,6 +102,7 @@ people of the society also fulfil their duties and they do not become disrespect
 -even civil society in India is divided on the grounds of religion, race, caste, language etc
 -thus they do not put effective check on the govt. which weakens the idea of Constitutionalism
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Parliamentry v/s Presidential system of govt.
 --Parliamentary
 -executive is a part of legislature
@@ -101,6 +118,7 @@ Parliamentry v/s Presidential system of govt.
 -President and his ministerial cell is not much responsible to the legislature
 -it puts greater stress on the idea of a stable executive even if it is less accountable to the legislature
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Separation of Power
 -the French philosopher Montesquieu gave the idea of SOP in which 3 organs of the state i.e. legislature, executive and judiciary
 shall be separated into water type compartments with an objective of preventing the state from becoming totalitarian (absolutely powerful)
@@ -113,6 +131,7 @@ and thus all the three organs maintain a balance among each other and impose res
 -SC in 1996 declared that the theory of SOP and the basic structure of the Constitution is an integral part of IC
 and thus both of them form the elements of basic structure of the IC
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Preamble
 -Preamble is regarded as the introduction or prelude (beginning) to the Constitution
 -it carries the essence/summary of the whole Constitution
@@ -146,6 +165,7 @@ but the modern view is that Preamble is considered to be part of the Constitutio
 then only it can be amended under Article 368 to maintain a pace with the modern day Constitution and Parliamentary Philosophy, 
 therefore SC over wrote its earlier decision in Kesavananda Bharati vs State of Kerala case 1973 that Preamble is a part of Constitution
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sovereignity
 -Sovereignity means that the country's govt is totally independent and it does not acknowledge any arbitrary power as supreme with 
 regard to the governance of the country either within its boundary or internationally
@@ -227,8 +247,7 @@ the individual or the group an opportunity to grow or achieve their full potenti
 -Fraternity is a sense of brotherhood that prevails among all the people of India which is very essential to promote the unity and integrity of India
 and save the dignity of individual
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Part 2
 Citizenship
 -A Citizen is an individual who enjoys the full membership of the country and he enjoys all the rights available in the country
@@ -294,8 +313,7 @@ Loss of Indian Citizenship
 or unlawfully trades or communicates with an enemy country during war then he can be deprived of his Indian Citizenship
 -it is a punishment
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Federal vs Unitary
 -In a federal system, 2 forms of govt. co-exist and none is inferior to other as both derive their powers from Constitution itself
 -in a federal system, Constitution has to be written and it should divide the powers between Center and States and this division of powers 
@@ -318,3 +336,296 @@ Nature of Indian Federal Constitution
 -experts believe that IC is federal, though some believe it is not truly federal rather it is quasi-federal or a federation with bias towards Unitarism
 -howerver SC said that whatever is the degree of federalism in IC, federalism is the part of basic structure of the IC
 -due to the following features, we can conclude that IC is a federal Constitution or atleast near to it
+1. Written Constitution
+-a federal Constitution necessarily is a written Constitution and since India has a written Constitution, it supports the case of India being federal
+2. Division/Distribution of Power
+-in a federal system, there are 2 forms of govt. i.e. Center and States, and none is sub-ordinate to other as both derives their powers from the Constitution
+and both are supreme in their respective area of activity and act like coordinating bodies
+3. Supremacy of Constitution 
+-in a federal context, Constitution is binding upon Center and the State governments and both have to respect it and perform only those functions which are 
+allowed under the Constitution 
+4. Rigidity of Constitution
+-federal Constitution is rigid atleast in some areas which deal with distribution of powers btw Center and States
+-IC is a mix of being rigid and flexible but it is rigid i.e. difficult to amend particularly on those parts which affect the distribution of powers btw
+Center and the States, for ex- under Article 368 the procedure to amend the Constitution in the following 5 areas is quiet difficult i.e. Constitution is rigid
+in these 5 areas because these amendments are to be first passed by Parliament that too by a majority of not less than 2/3rd of the members present and voting
+and the majority of total membership of the house after which atleast 50% of the State Legislative Bodies need to approve the amendment before it is sent to 
+the President for his assent, other than these 5 areas, other amendments in the Constitution are simply approved by the Parliament by special majority and 
+States are not involved
+5. Authority of Courts
+-to resolve the disputes that may arise btw Center and the States over distribution of Powers, there must be an authority independent of both and that authority 
+should also have the power to interpret the Constitution, such an authority in India is a SC of India indicating that India is federal 
+
+Distinctive nature of Indian Federal System (here we are proving that India is a Unitary)
+
+1. Single Citizenship, Single Constitution, Single Judiciary
+-US and Australia are seen as benchmark of a federal system, for ex- US has got a system in which there is a Constitution dealing with the federal administration
+and also States have their own Constitution, US has a dual Judicial system in which States have their own SC and their is a SC of US which does not have 
+administrative control over the States Judiciary, US system allows dual citizenship in which an individual is not only the citizen of the country but also 
+he belongs to a state as a citizen, however IC possesses certain essential features of a federal system yet it differs much from the typical federal model 
+followed in typical federal countries, for ex- in India, States do not have their respective Constitution, their is no dual citizenship, there is a single
+Judicial system across India
+
+2. Under Article 3 of the IC, Parliament can change the name, area, or boundary of any State with or even without the consent of the state i.e. in India, States
+do not enjoy a permanent independent identity which is a deviation from understanding about federal systems of the world
+
+3. during normal situations in India, Center and States work according to their Constitutionally guaranteed powers i.e. distribution of power exist btw Center
+and States, however during emergency this distribution of power shifts in the favour of Center making India appear Unitary, this is seen as a big flaw/weakness
+in Indian federal system as it has no fixed character, however it is not so in reality having flexibility in our federal design is the requirement of
+realities of India, for ex- India has to be federal specifically because of the reasons of cultural and geographical diversities as well as political 
+and historical reasons required India to allow the States to have autonomy/powers in some areas, however India also has to have a Unitary touch in its 
+federal polity particularly during the times of crisis or emergency because of the fact that in many states there exists a tendency to break away which is
+further fueled by the presence of hostile neighbours, Center also has to be more dominant for the reason Center can bring oneness across all the states of 
+India inspite of huge cultural diversities and conflict for resources among the states keeping India united
+
+4. Schedule 7 of the IC distributes the legislative powers btw Center and the States making India appear federal however this distribution is largely in the favour 
+of Center for the following reasons 
+a. the union list not only has more subjects but they are more critical also by nature and these subjects allow Center to raise more revenue 
+b. the law made by Center has jurisdiction across India whereas the law made by States on the subjects of State list apply locally 
+c. even on concurrent list the claim of Center is prior and superior 
+d. the subjects of State list are not within the exclusive jurisdiction of the States i.e. even Center can very well interfere in these areas, for ex under
+the following 5 extra-ordinary conditions Parliament can legislate/make laws over the subjects of State list 
+i. under Article 249 if RS passes a resolution by a majority of not less than 2/3rd of the members present and voting that it is urgently in National Interest
+for the Parliament to legislate over specified subjects of the State list then Parliament assumes the legislative jurisdiction over those specified subjects 
+of the State list. the valididy of such a law can be min 0.5 year and max 1.5 years [keyword: Rajya Sabha, National Interest] 
+ii. under Article 250 during National Emergency, Parliament assumes concurrent legislative jurisdiction over the subjects under State's list
+this law if made by Parliament shall expire after 6 months from the date emergency comes to an end
+iii. under Article 252 if 2 or more than 2 State Legislatures pass a resolution authorizing the Parliament to legislate over specified subjects of the State list
+then Parliament assumes the jurisdiction over those subjects for those States and the law shall remain valid till the time it is repelled by the Parliament 
+iv. under Article 253, Parliament can pass a law on a subject of State list with or without the consent of the State for implementation of International Treaties 
+v. under Article 356, when President's rule is imposed in a State and the State Assembly is suspended/dissolved then Parliament gets exclusive legislative 
+jurisdiction with respect to the subjects of the State list for the concerned State
+
+5. under Article 248, the residuary power of legislation belongs to Parliament 
+
+6. under Article 155, Governor of a State is appointed by the President and he holds during the pleasure of President which means that Governor who is the 
+head of the State comes under the influence of the Center and through the office of Governor, Center can influence the State
+
+7. Comptroller and Auditor General of India carries the audit of accounts for both the Union and the State Govts, he is appointed by the President and removed
+by him with the approval of Parliament. Thus many a times States complain about the biased nature of working of this office 
+
+8. Under Article 312, RS can authorise the Parliament to create 1 or more All India Services, AIS officers are apppointed by Center but they come under overall 
+disciplinary control of Center, though they largely function in the senior positions under the State Govt. and by controlling AIS, center can influence the States
+
+9. Under Article 256/257, Center can issue administrative directions to the States including the directions indicating the manner in which Railway properties and
+other means of communication shall be maintained, these directions are binding on the States and if not followed then Center can dismiss the State govts. under
+Article 365
+
+10. Unequal representation given to States in RS depending upon the population of the States besides 12 nominees of the President in RS i.e. Council of States
+is a clear violation of federal principle, for ex- the American federation gives equal representation to all the States in the Senate
+
+Conclusion - On the account of all the above points we can conclude that Indian Federal Structure has a strong unitary bias and thus Indian Federation 
+is sometimes referred as Federation Suigeneris. Dr BR Ambedkar said that rigidity and legalism are 2 serious weaknesses of a federal system thus rather than 
+declaring India Federation of States, India was declared as Union of States
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fundamental Duties : Part IV A of the IC
+-part IV A of the IC made part of IC through 42nd amendment act 1976 inspired by Const. of USSR and based on the recommendation of Sardar Swarn Singh committee, 1976 
+-Article 51A mentions 11 fundamental duties of every Indian Citizen
+-51A(a): to abide by Constitution and respect its ideals and institutions, National flag and Anthem 
+-51A(b): to cherish and follow the noble ideals which inspired the Indian struggle for freedom
+-51A(c): to uphold and protect the sovereignity, unity and integrity of India
+-51A(d): to defend the country and render National service when called upon to do so 
+-51A(e): to promote harmony and spirit of common brotherhood among all the people of India and renounce the practices derrogatory against to the dignity of women
+-51A(f): to value and preseve the rich heritage of our composite culture 
+-51A(g): to protect and improve natural environment and have compassion for living creatures 
+-51A(h): to develop scientific temper, humanism and spirit of inquiry and reform
+-51A(i): to safeguard public property and give up violence 
+-51A(j): try to excel in all the spheres of individual and collective activities so that Nation constantly rises 
+-51A(k): introduced through 86th amendment act 2002 under which it is a duty of every parent or guardian to provide opportunity for education to his child/ward(6-14y)
+
+-IC does not carry the provision for direct enforcement of these duties i.e. there is no sanction/punishment to prevent their violation, however Parliament can 
+enforce them by making a suitable legislation, Fundamental Duties are also referred to understand the limits on Fundamental Rights
+-SC clarified that FD apply on States also because State is a reflection of citizen only 
+-FD simply added in the IC may not achieve their real goal of making the people responsible rather people should be made aware about these duties proactively
+along with changing the value system in the society in which we put the Nation first and not the familiy or the individual first
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fundamental Rights - Part III
+
+-US was the first country to give a Constitutional status to a set of Rights called Fundamental Rights
+-FR in the IC are largely inspired by the Bill of Rights in the American Constitution
+-the rights given in part III of the IC are called Fundamental not only because they are provided by the fundamental law of the land i.e. Constitution but also
+because these rights prevent the State from becoming arbitrary or authoritarian and thus they are fundamental for the creation of a civilised society 
+-FRs are also fundamental because they are the most important assets with an individual to achieve his fullest physical, intellectual and spiritual potential/growth
+-these rights are also quite fundamental for the healthy functioning of Democracy and thus FRs are referred as corner stone(identification) of Indian Democracy
+-Part III and Part IV of the IC together constitute the conscience of the Constitution or the intellectual component of the Constitution
+
+Difference btw Fundamental Rights and Ordinary Legal Rights 
+-while OLR are enforced and protected by Ordinary Law of the land, FR are protected and guaranteed by the Constitution of the country itself
+-in case of violation of FRs, the agrieved can approach the SC directly whereas if an OLR is violated then the agrieved gets the relief by approaching 
+the sub-ordinate courts or by High Court but he cannot directly approach SC
+-OLR can be changed by legislature through an ordinary process of law making however FRs can be changed only by amending the Constitution under Article 368
+
+Nature of Fundamental Rights
+-FRs are not absolute in nature since they are subject to reasonable restrictions and responsibilies attached to them 
+-FRs provide protection to an individual primarily against State's action however few FRs are available against the State as well as against private individuals
+for ex- Right against untouchability, Right to life, Right against exploitation
+
+Doctrine of Eclipse
+-under Article 13(1), all the laws enforced in India before the commencement of the Constitution shall be unconstitutional and void, if they violate 1 or more
+than 1 provisions of part 3 of the Constitution i.e. Fundamental Rights, to the extent of such violation 
+-in Bhikaji Narayan vs State of M.P. case 1955, SC applied the principle of Eclipse and said that such a pre-constitutional law if important enough can be given
+protection under Doctrine of Eclipse i.e. the law can be put in the shadow of FRs rather than being declared unconstitutional because of which the law will 
+remain inactive i.e. dormant and in the future if any amendment is able to end the clash btw the law and the FR then this law can be revived again
+and made enforceable and till the time the law can be applied on the people whose FRs are not being violated by this law
+-in Deepchand vs State of U.P. case 1959, SC held that Doctrine of Eclipse can be applied only to a pre-constitutional law and not to a post-constitutional law
+as the post-constitutional law which violates the FR is invalid Ab initio, thus a post-constitutional law deserves no protection under Doctrine of Eclipse
+-in Ambika Mills vs State of Gujrat case 1974, SC held by overuling its earlier judgement in Deepchand case that Doctrine of Eclipse can be applied to protect 
+not only a pre-constitutional law but also a post-constitutional law
+
+Amendability of Fundamental Rights
+-Article 13(2) says that State shall not make any 'LAW' that takes away or abridges/reducing importance 1 or more FRs and if such a law is passed, if such a law is 
+passed, then the law shall be unconstitutional and void to the extent of the inconsistency
+-However seemingly against the provisions of Article 13(2), 
+--the first amendment act 1951 introduced Article 15(4) which was apparently against the spirit of Article 15. 
+--the first amendment act also amended Article 19(6) through which reasonal restrictions were put on Right to Vocation. 
+--the first amendment act also introduced the 9th Schedule to the Constitution which took away the powers of Judicial review of the courts 
+i.e. the laws added in the 9th Schedule were supposed not to be questioned in the court on the ground that the law was violative of FRs
+-now the first amendment act was challenged before SC in Shankari Prasad vs Union of India case 1951, but the ruling came in the favour of Parliament 
+-SC declared in the case that Parliament enjoys 2 types of legislative powers, first Ordinary legislative powers, and second Constitutional legislative powers
+under Article 368. If Parliament makes use of Constitutional powers under Article 368 then the outcome is Constitutional Amendment which is not covered in the
+ambit of 'LAW' as defined under Article 13(3) and thus will not be a violation of Article 13(2), however if Parliament excercises Ordinary legislative powers
+then the result is 'LAW' as defined under Article 13(3) which comes under the scope Article 13(2) and would be void if it goes against 1 or more FRs
+thus in Shankari Prasad Case, SC held that Parliament under Article 368 can amend any part of the IC including FRs
+-in Golakhnath vs State of Punjab Case 1967, SC overuled its earlier decision and held that Article 368 contains only the procedure to amend the Constitution but
+it does not confer the power upon the Parliament to amend the Constitution and thus Parliament cannot amend any part of the Constitution including FRs
+-however Parliament responded by passing 24th amendment act 1971 which amended the title of Article 368 which now reads 'The Procedure to amend the Constitution
+and the Power to amend the Constitution'
+-in Keshavanand Bharati vs State of Kerala Case 1973, the 24th amendment act which amended the title of Article 368 was challenged among other things but the SC
+upheld the Constitutional validity of 24th amendment act and declared that Parliament by the virtue of its powers under Article 368 can amend any part of the IC
+under Article 368 including the amendments in FRs, however no amendment should disturb the basic structure of the IC
+-however SC didn't define what the Basic Structure(BS) of the IC was, however in number of cases the Judiciary has been indicating those parts of the Constitution
+which form the BS of the IC
+-BS includes those provisions of the IC without which the IC may loose its basic character/nature, for ex- it includes 
+--Supremacy of Constitution
+--Rule of law
+--SOP
+--Checks & Balances 
+--federalism 
+--Judicial Review
+--Independence of Judiciary 
+--Socialism 
+--Soveriegnity of India 
+--Access to Justice 
+--Unity & Integrity of India 
+--Mandate/Purpose/Agenda to build a Welfare State etc.
+
+-Clubbed all the FRs together depending upon their similar nature in 6 broad categories
+1. FRs related to Equality - Article 14 to Article 18
+2. FRs related to Freedom  - Article 19 to Article 22
+3. FRs against Exploitation - Article 23 and Article 24
+4. FRs related to Religion - Article 25 to Article 28
+5. FRs related to Cultural & Educational Rights - Article 29 and Article 30
+6. FRs related to Constitutional Remedies - Article 32
+--[trick : 5 4 2 4 2 1]
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 14 : Right to Equality
+-it states that State shall not deny to any person 
+a. Equality before law
+-Equality before law is a concept which originated in England
+-it is a negatively worded idea because 'Absense of privileges enjoyed by an individual in the eyes of law i.e. all persons irrespective of their rank or position
+are equal before law and they shall be treated equally'
+-this means that all persons are subject to the ordinary jurisdiction of court i.e. all can sue or can get sued before the ordinary court
+-so Article 14 guarantees only jurisdictory(legal) equality and not complete equality
+-however there are few exceptions to the concept of Equality before law
+--the President or the Governor of the State is not answerable to the Court of law for discharging his official functions
+--no criminal case can be started or continued against the President/Governor
+--no civil case where relief is demanded can be started against the President or Governor without giving them a prior notice of 2 months 
+--privileges given to legislators or protection given to diplomats are also exceptions to Equality before law
+
+-Rule of Law
+-the concept originated in England and is an integral part of the idea called Equality before Law i.e. EBL gives rise to ROL
+-ROL means that law is Supreme i.e. Lex Supremus and there is absolute supremacy of regular law of the country as opposed to the influence of any arbitrary power
+-with the adoption of ROL, the concept of administration has changed from Rex Lex(King is Law) to Lex Rex(Law is King)
+-this is very essential to maintain order and stability in the society
+-SC declared that ROL is so essential for healthy functioning of a civilised society that it is a component of basic structure of the IC
+-ROL has 3 principles
+1. no man can be punished or made to suffer except for violation of law and such a violation shall also be established/proven in the ordinary court of land
+2. all persons are subject to the ordinary law of land without distinction
+3. the 3rd principle of ROL as applicable in India is a modification of the 3rd principle of ROL of England which says in India, Constitution is the Supreme
+Law of land and all the laws passed by the legislature must be consistent with the provisions of the IC
+
+b. Equal protection of law
+-the concept originated in USA, it is a positive concept which means Equality of treatment in Equal circumstances i.e. like should be treated alike 
+-Equality does not mean uniform application of law under all circumstances but it means before applying the law situational variation must be taken into account
+thus Article 14 guarantees Equality but only among Equals, thus Equal Protection of Law allows for what is called as Positive Discrimination/Protective Discrimation
+under which even the Reservation Policy is valid
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 15 : Right against Discrimination
+Aritcle 15(1) 
+-State shall not discriminate against citizen only on the ground of Religion, Race, Caste, Sex, Place of Birth or any of them i.e.
+-these conditions alone are not sufficient grounds to have discrimination done under Equal Protection of Law but these conditions must be accompanied with 
+some other factors or circumstances to bring Positive Discrimination, for ex - when a caste is given Reservation then it is not because of the caste per say
+rather it is because of the Backwardness attached with the caste
+
+Article 15(2)
+-prohobits State and Individual both from discriminating against citizens only on the ground of Religion, Race, Caste, Sex, Place of Birth or any of them in having
+access to Public Places such as parks, hotels, hospitals, or wells, tanks, ghats, road maintained out of State's fund
+-the right under Article 15(2) is fighting various social evils like Untouchability, Communalism, Racial Bias, Gender Discrimination, Regionalism etc.
+
+Article 15(3)
+-State is allowed to make special provisions for Women and Children
+
+Article 15(4)
+-introduced through 1st Amendment Act 1951
+-State can make special provisions for the advancement of socially and educationally backward classes of citizens or SCs and STs
+
+Article 15(5)
+-introduced through 93rd Amendment Act 2005, which empowers the State to make special provisions for the admission of backward classes of citizens in 
+educational institutions whether public or private aided or unaided except minorities educational institutions
+
+Article 15(6)
+-introduced through 103rd Amendment Act 2019
+-provides for Reservation upto 10% for economically weaker section in educational institutions whether public or private, aided or unaided except 
+minority educational institutions
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 16(1)
+-Provides for equality of opportunity to all the sections of citizens in public employment
+
+Article 16(2)
+-Prohibits State from discrimination against citizens only on the ground of Religion, Race, Caste, Sex, Place of Birth, Residence, Descent or any of them in gaining
+public employment
+
+Article 16(3)
+-Parliament is empowered to provide by law , Residence as a ground or qualification to gain certain categories of public employment
+
+Article 16(4)
+-empowers the State to make special provisions in the favour of backward classes of citizens in reserving the posts of the nature of public employment 
+if the backward class is not adequately represented in the services under the State and the said class of citizens is also socially and educationally backward
+-SC in Indira Sawhney vs Union of India Case 1992, held that 
+a. 27% reservation for OBCs in public jobs was constitutionally valid, however SC directed the State to identify the creamy layer among the OBCs and remove
+them from the benefit of reservation
+b. Court held that ordinarily reservation in the favour of backward classes shall not exceed 50% of the total seats 
+c. SC also held that reservation should be a one-time benefit which can be availed at entry level only so SC declared the reservation given to SC/ST in promotion
+to be unconstitutional and void 
+d. to this, Parliament reacted by introducing Article 16(4A) through 77th Amendment Act 1995 which provided for Reservation in Promotion to SC/ST
+e. As per the recent judgement of SC in State of Punjab vs Davinder Singh Case 2020, respective State legislatures can create sub-quota within the reserved quota
+for SC/ST
+
+Article 16(5) 
+-it empowers the State to prescribe religion as a ground or qualification for the recruitment of candidates in certain categories of public employment
+
+Article 16(6)
+-introduced through 103rd Amendment Act 2019
+-empowers the State to reserve upto 10% of seats for Economically Weaker Sections in public employment 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 17
+-it provides a Fundamental Right against Untouchability in absolute terms without limitation or exception 
+-neither Constitution  or Parliamentary laws defines untouchability but Judiciary has defined it as a social practice where a person only on the basis of his birth
+in a particular caste is looked down upon and discriminated wrongly
+-SC expanded the definition by declaring that any practice in which an individual or a group is considered polluted or impure and discriminated will also amount 
+to practice of untouchability
+-Untouchability Offenses Act 1955 which prescribed for the punishment for practicing untouchability has been renamed and strenghthened as Civil Rights (Proctection)
+Act 1976
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article18(1)
+-Prohibits the State from conferring any title except for Military or Academic distinction
+-National awards also called as Padma Awards, started in 1954 are regarded as decorations or awards and not titles and therefore the awardee is not suppose to use
+them as a prefix or suffix with their name
+-SC held that National Awards are not violative of Principle of Equality because Right to Equality does not mandate that merit should not be recognised

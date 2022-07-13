@@ -248,8 +248,8 @@ the individual or the group an opportunity to grow or achieve their full potenti
 and save the dignity of individual
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Part 2
-Citizenship
+Part II - Citizenship [Articles 5-11]
+
 -A Citizen is an individual who enjoys the full membership of the country and he enjoys all the rights available in the country
 -there are some rights in India which are reseverd for Indian citizens only for example- the right under Article 15, 16, 19, 29, 30, 326 etc
 -the IC does not lay down permanent or detailed provisions regarding the citizenship in India 
@@ -419,7 +419,7 @@ is sometimes referred as Federation Suigeneris. Dr BR Ambedkar said that rigidit
 declaring India Federation of States, India was declared as Union of States
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Fundamental Duties : Part IV A of the IC
+Fundamental Duties : Part IVA of the IC
 -part IV A of the IC made part of IC through 42nd amendment act 1976 inspired by Const. of USSR and based on the recommendation of Sardar Swarn Singh committee, 1976 
 -Article 51A mentions 11 fundamental duties of every Indian Citizen
 -51A(a): to abide by Constitution and respect its ideals and institutions, National flag and Anthem 
@@ -441,7 +441,7 @@ enforce them by making a suitable legislation, Fundamental Duties are also refer
 along with changing the value system in the society in which we put the Nation first and not the familiy or the individual first
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Fundamental Rights - Part III
+Part III - Fundamental Rights [Articles 12-35] 
 
 -US was the first country to give a Constitutional status to a set of Rights called Fundamental Rights
 -FR in the IC are largely inspired by the Bill of Rights in the American Constitution
@@ -475,7 +475,7 @@ as the post-constitutional law which violates the FR is invalid Ab initio, thus 
 not only a pre-constitutional law but also a post-constitutional law
 
 Amendability of Fundamental Rights
--Article 13(2) says that State shall not make any 'LAW' that takes away or abridges/reducing importance 1 or more FRs and if such a law is passed, if such a law is 
+-Article 13(2) says that State shall not make any 'LAW' that takes away or abridges/reducing importance 1 or more FRs and if such a law is 
 passed, then the law shall be unconstitutional and void to the extent of the inconsistency
 -However seemingly against the provisions of Article 13(2), 
 --the first amendment act 1951 introduced Article 15(4) which was apparently against the spirit of Article 15. 
@@ -521,9 +521,25 @@ which form the BS of the IC
 --[trick : 5 4 2 4 2 1]
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 13 - No law shall be made that violates FR
+
+Article 13(1)
+-all the laws enforced in India before the commencement of the Constitution shall be unconstitutional and void, if they violate 1 or more
+than 1 provisions of part 3 of the Constitution i.e. Fundamental Rights, to the extent of such violation
+
+Article 13(2)
+-State shall not make any 'LAW' that takes away or abridges/reducing importance 1 or more FRs and if such a law is 
+passed, then the law shall be unconstitutional and void to the extent of the inconsistency
+
+Article 13(3)
+-the expression "law" includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having the force of law 
+in the territory of India or any part thereof
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Article 14 : Right to Equality
--it states that State shall not deny to any person 
-a. Equality before law
+-it states that The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India 
+
+a. Equality before Law
 -Equality before law is a concept which originated in England
 -it is a negatively worded idea because 'Absense of privileges enjoyed by an individual in the eyes of law i.e. all persons irrespective of their rank or position
 are equal before law and they shall be treated equally'
@@ -547,7 +563,7 @@ are equal before law and they shall be treated equally'
 3. the 3rd principle of ROL as applicable in India is a modification of the 3rd principle of ROL of England which says in India, Constitution is the Supreme
 Law of land and all the laws passed by the legislature must be consistent with the provisions of the IC
 
-b. Equal protection of law
+b. Equal Protection of Law
 -the concept originated in USA, it is a positive concept which means Equality of treatment in Equal circumstances i.e. like should be treated alike 
 -Equality does not mean uniform application of law under all circumstances but it means before applying the law situational variation must be taken into account
 thus Article 14 guarantees Equality but only among Equals, thus Equal Protection of Law allows for what is called as Positive Discrimination/Protective Discrimation
@@ -555,6 +571,7 @@ under which even the Reservation Policy is valid
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Article 15 : Right against Discrimination
+
 Aritcle 15(1) 
 -State shall not discriminate against citizen only on the ground of Religion, Race, Caste, Sex, Place of Birth or any of them i.e.
 -these conditions alone are not sufficient grounds to have discrimination done under Equal Protection of Law but these conditions must be accompanied with 
@@ -583,6 +600,8 @@ Article 15(6)
 minority educational institutions
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 16 - Equal Opportunity in Public Employment
+
 Article 16(1)
 -Provides for equality of opportunity to all the sections of citizens in public employment
 
@@ -614,7 +633,7 @@ Article 16(6)
 -empowers the State to reserve upto 10% of seats for Economically Weaker Sections in public employment 
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Article 17
+Article 17 - Abolition of Untouchability
 -it provides a Fundamental Right against Untouchability in absolute terms without limitation or exception 
 -neither Constitution  or Parliamentary laws defines untouchability but Judiciary has defined it as a social practice where a person only on the basis of his birth
 in a particular caste is looked down upon and discriminated wrongly
@@ -624,8 +643,609 @@ to practice of untouchability
 Act 1976
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Article18(1)
+Article 18 - Abolition of Titles
+
+Article 18(1)
 -Prohibits the State from conferring any title except for Military or Academic distinction
 -National awards also called as Padma Awards, started in 1954 are regarded as decorations or awards and not titles and therefore the awardee is not suppose to use
 them as a prefix or suffix with their name
 -SC held that National Awards are not violative of Principle of Equality because Right to Equality does not mandate that merit should not be recognised
+
+Article 18(2)
+-prohibits the citizen of India from accepting any title from a Foreign State
+
+Article 18(3)
+-a foreigner holding any office of profit or trust under Indian State cannot accept any title from a Foreign State without the concent of the President
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 19 - Fundamental Freedoms
+
+Article 19(1)(a)
+-guarantees to all citizens a fundamental right to speech and expression
+-after Article 21, Article 19(1)(a) has undergone the most liberal interpretation at the hands of SC
+-SC held that the Right under Article 19(1)(a) is an inalienable adjunct to Right to life
+-Right to Speech & Expression can have the following meanings 
+1. SC held that National flag hoisting is a way to express one's feelings towards the country and is thus a FR under Article 19(1)(a)
+2. Participation in Sports is an expression of ones self and is thus a FR
+3. Article 19(1)(a) not only gives a Right to Citizen to express his own views and opinions but also to express others views and opinions as a FR and from this
+has originated the idea of Freedom of Press
+4. The Right also includes Right to Political Dessent i.e. Right to Differ from the views of the govt., this relates to the development of multi-party Democracy
+5. SC held that Right to have Information is a FR under Article 19(1)(a) as it helps expression however it is the RTI Act 2005 which tells the procedure to 
+access the Information
+6. Freedom of Speech & Expression is not limited by the boundaries of the country and a citizen enjoys the right even while travelling abroad, this Right is not
+an absolute right rather a restricted right which can be restricted on the ground of security of India, friendly relations with other countries, morality and 
+decency of the society, defamation, contempt of court etc.
+
+Article 19(1)(b)
+-guarantees a FR to assemble to all the citizens including Right to hold meetings or taking out procession but in a peaceful way
+
+Article 19(1)(c)
+-guarantees a FR to form associations of any type, this includes Right to form Political Associations, Right to form Trade Union, Right to form Cooperative Society
+-Right to form Cooperative Society as a FR was introduced through 97th Amendment Act, 2011
+-Formation of Trade Union is a FR but it does not imply a FR to strike, so Right to Strike may be a legal right but now a funamental right
+-SC in 1998 held 'Bandh' to be illegal as it involves an element of coersion and it brings complete shutdown of business and disturbs public life 
+-Article 33 of the IC empowers the Parliament to impose restrictions on the Fundamental Rights (except Article 20 and 21) available to Security Forces in the
+interest of Security of India, thus Parliament through various laws like Army Act, Navy Act, Police Act, etc has denied the Right to form Political Association
+to the Armed Forces
+
+Article 19(1)(d)
+-guarantees a FR to movement throughout India however the free movement of citizens can be restricted on the ground of Security of India, Public Order, Interest of 
+Scheduled Tribes, Health etc
+
+Article 19(1)(e)
+-there is a FR of Residence and Settlement available to Indian Citizens
+
+Article 19(1)(f)
+-Right to Property has been removed from Part 3 through 44th Amendment Act 1978 and made a Right in Part 12 of Constitution under Article 300A
+
+Article 19(1)(g)
+-guarantees a FR to Vocation i.e. a Profession or a Trade of one's choice however State can impose restrictions on Vocations in the form of Qualifications
+in certain profession in Public Interest, moreover State can even take over a business or a trade partially or completely provided it is in Public Interest
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 20
+
+Article 20(1)
+-State is prohibited from enacting ex-Post facto criminal legislation
+-ex-Post facto legislation means enacting a law and giving it a restrospective effect
+-under this Article, no man shall be convicted and sentenced for an act which was not a criminal act at the time of its commissioning
+
+Article 20(2)
+-State is prohibited from practicing Double Jeopardy
+-Double Jeopardy means no person shall be punished more than once in a court of law for commissioning of a single offence
+
+Article 20(3)
+-State is prohibited from compelling an individual to give self-incriminating evidence
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 21
+-guarantees to all individuals Right to Life and Liberty
+-no person can be deprived of his life or liberty, except according to the procedures established by law (P.E.B.L)
+
+Procedures Established By Law (P.E.B.L)
+-the concept originated in England
+-under this doctrine when a person is deprived of his life or liberty then the court will examine
+1. is there a law in existence which authorizes the executive to deprive the individual of his life and liberty 
+2. further the court will examine, was the law made by Competent Authority or not 
+3. if Yes, were all the set procedures followed correctly while making the law
+-the court however will not examine the fairness of the law or the motive behind the law and thus court cannot declare a law unconstitutional
+-this doctrine of P.E.B.L relies more on good sense of legislature and the strength of public opinion in the country
+-thus P.E.B.L provides protection to an individual only against the arbitrary action of the executives and not that of legislature
+
+Due Process of Law (D.P.L)
+-the concept originated in U.S.A 
+-it confers greater power to the Judiciary under which in the case of violation of Article 21, Judiciary will check all the 3 points which it checked under P.E.B.L
+as well as it will see whether the law itself is fair and just or not by applying the Principles of Natural Justice 
+-thus D.P.L provides protection to an individual both against the arbitrary action of Executive as well as Legislature
+-our Constitution under Article 21 provides only for P.E.B.L, however SC in Maneka Gandhi Case 1978 interpreted Article 21 to include the Doctrine of D.P.L by 
+reading incorporation of Principles of Natural Justice in Article 21
+
+Principles of Natural Justice
+1. no body should be punished unheard
+2. no body must be judge of his own case
+3. Authority must act Bonafide/neutral
+-the purpose of these principles is to exclude the chances of arbitrariness in decision making and they aim at humanising decision making process as their
+focus is on the fact that every action must be supported by a justified reason 
+-accoring to SC, these principles are Universal i.e. they are binding on all authorities including Judiciary, private individuals and all other organisations
+-SC declared that these principles even if not explicitly mentioned in the IC, they can be found under Article 14 and Article 21 of the IC implicitly
+-they are so important for orderly functioning of the State that they are regarded as part of Basic Structure of the IC
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 21A
+-introduced through 86th Amendment Act 2002, under which State shall provide Free and Compulsory Education to all children of age 6-14 as provided by law
+-thus it is a FR of every child of age 6-14 to get free education which can be enforced upon State
+-Compulsory Education will not only be the responsibility of State but of Parents also 
+-thus a Fundamental Duty was also introduced under Article 51A(k) under which it is the duty of every parent or guardian to send the child to 
+educational institution if he is of the age group 6-14
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 22
+-it extends protection to an individual during Arrest and Detention, however Article 22 does not guarantee a Fundamental Right against Arrest & Detention rather
+it only provides protection to an individual if he is being Arrested or Detained
+-it comes into play after Arrest not before Arrest
+-it confers 3 Rights to an individual who is being Arrested or Detained
+1. No person who is Arrested shall be detained in Custody without informing him of the ground of his Arrest, moreover he shall be entitled to consult a lawyer
+of his choice, SC in 1994 held that an arrested person has a Right to have his family, friend or relative informed about his arrest so he is able to defend himself
+Court also held that the person shall not be arrested merely on the ground of suspicion and his arrest must be recorded in the official diary 
+2. the arrested person shall be produced before the nearest Judicial Magistrate withing 24 hours of arrest excluding the time of journey
+3. no person shall be detained in custody beyond the period which was authorized by the Magistrate 
+-the protections under Article 22 are not available to enemy aliens or the persons arrested under Preventive Detention Laws 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 23 - Right against Exploitation
+
+Article 23(1)
+-prohibits traffic in human beings, begars and other forms of forced labour
+
+Article 23(2)
+-empowers the State to compel the individual to provide service with or without payment provided it is in Public Interest 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 24 - Prohibits Child Labour
+-Children age less than 14 years are prohibited from being employed in hazardous employments
+-an amendment was made in the act as Child Labour (Prohibition and Regulation) Amendment Act 2016, which says
+--Complete prohibition of employment of children below the age of 14
+--Children below the age of 14 years will be allowed to work in Family Business/Enterprises only if they are non-hazardous that too after school hours or vacations
+--Children between 14-18 years are categorised as Adolescents and are not allowed to work in hazardous occupations
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 25
+-guarantees to all individuals, a two fold freedom of Religion which includes
+--Right to freedom of Conscience
+--Right to Profess, Practice, Propagate
+
+a. Right to freedom of Conscience
+-it means absolute inner freedom of an individual to mould his religious belief and faith 
+-when this inner freedom takes an outward expression, it is called Right to Profess, Practice and Propogate a religion of ones choice
+-SC cleared here religion means faith and not necessarily belief in God 
+
+b. Right to Profess
+-it means right of an individual to spell out his religious beliefs freely and openly 
+
+c. Right to Practice 
+-it means right of an individual to follow the rituals prescribed by ones religion and display the symbols and the signs associated with his religion
+-eg. Muslim women wearing hijab or burkah, Sikh man wearing turban, Hindu man wearing Sacred thread
+
+d. Right to Propagate
+-it means right to spell out ones religious teachings for edification of others
+-eg. writing a book on my religion, holding religious gathering, conducting religious seminars 
+
+-In father Stanislaus vs State of M.P. Case 1977, SC clarified that a FR of a person to spread his religion by explaining the content cannot be questioned
+however there is no FR to convert others to ones own religion, court also clarified that with respect to religious faith and belief, the FR enjoyed by the
+individual is absolute and State cannot interfere in it, however in the case of religious conduct and practice the State is free to regulate it in the interest
+of Public at large
+-you can convert others to your religion but converting others to your religion is not your Fundamental Right
+-converting them to your religion by force or temptation is a crime
+
+Note - Religion is not only about God, it is about faith, faith can be in God or not-in-God(Athiest)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 26
+-Deals with freedom of religion denomination(group) to manage their religious affairs subject to Public Order, Morality, Health
+-it also allows a religious denomination to own and acquire property and administer it as per law
+-it also allows a religious denomination to establish and maintain institutions for religious and charitable purposes
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Article 27
+-it truly spells out the secular character of Indian State
+-it prohibits the State from spending tax-collection for the promotion and maintenance of any particular religious denomination
+-though it does not prohibit the State from spending the tax-collections for the promotion and maintenance of all religions without any discrimination 
+-similarly it does not prohibit the State from spending non tax-collection collected in the form of fee or donations in spending for the promotion and maintenance
+even of a particular religion
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 28
+-Deals with imparting religious instructions in educational institutions.
+-it divides all educational institutions into 4 categories
+1. EI wholly owned & administered by State
+2. EI which are private owned but aided & recognised by State
+3. EI which are private owned but unaided though recognised by State
+4. EI which are administerd by State but established through religious endowments or charitable trust
+
+-in the 1st category, no religious instruction whatsoever can be imparted
+-in the 2nd & 3rd category, religious educational instructions can be imparted however students cannot be compelled to attend those religious instructions
+-in the 4th category, religious instructions can be imparted and can be made compulsory for the students
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 29 - Protection of Interest of Minorities
+
+Article 29(1)
+-any section of Indian citizens residing in India having a distinct language, script, culture of their own shall have a right to conserve them
+
+Note - though the title of Article 29 is a protection of the Interest of Minorities, yet the language of Article 29(1) extends this right to all the sections of 
+citizens who are resident of India
+
+Article 29(2)
+-no citizen shall be denied admission in any educational institution maintained by State or recieving aid out of State's fund only on the ground of religion, 
+race, caste, language or any of them
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 30
+-it deals with the fundamental right of minority community to establish and adminster Educational Institutions
+-it classifies minorities on the basis of Religion or Language
+
+Note
+-Religious minorities are identified at the National level
+-eg. Hindus being in minority in States of Kashmir, Nagaland etc are not considered religious minorities because they are not minorities at the National level
+-Linguistic minorities are identified at both the National and State level
+-eg. Christians are liguistic majority in Nagaland at State level, while are linguistic minority at the National level
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 32 - Right to Constitutional Remedies
+-it confers the power of SC to issue appropriate orders, directions or writs in case FRs are found violated so that FRs can be enforced 
+-it also allows the individuals to directly approach the SC in case of violation of FRs, thus Article 32 contains the legal remedy in case FRs of an individual 
+are violated 
+-thus Article 32 makes other FRs real and enforceable, it provides teeth to other FRs to bite
+-without Article 32, one may not be able to enjoy other FRs also and thus it is very important for healthy functioning of Democracy
+-Dr Ambedkar described Article 32 as a Heart & Soul of the whole Constitution
+
+Article 32(2)
+-it is the Writ Jurisdiction(the power to issue Writ) of SC
+-IC provides the Writ Jurisdiction to SC under Article 32 and High Courts under Article 226, this concept of Writ Jurisdiction has been adopted from England 
+-Writ Jurisdiction enables the court to issue appropriate writs for the enforcement of rights of an individual 
+-Writ Jurisdictin also implicitly confers the power of Judicial Review on SCs or HCs
+
+Article 32(3)
+-under this, Parliament has the power to confer Writ Jurisdiction by means of law to any other body 
+-using the power, Parliament enacted administrative tribunals act 1985 which conferred the writ jurisdiction on to bodies like 
+C.A.T(Center Administrative Tribunals), S.A.T(State Administrative Tribunals), J.A.T(Joint Administrative Tribunals)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Types of Writs
+
+1. Habeas Corpus (Great Writ)
+-it literally means 'to have the body'
+-when an individual is detained without legal justification or he is missing then the writ of Habeas Corpus is issued by the court ordering that the person
+be produced before the court so that court can set him free 
+-this writ can be filed before the court by an individual or organisation and not necessarily by the agrieved himself and thus the principle of 'Locus Standi'
+may not apply in the case, principle of Locus Standi is a right of a person to go to the court to get his rights implemented, since in this case the person is 
+behind the bars or missing he himself cannot approach the court.
+Locus Standi - a person has to take his own stand before the court if he is agrieved
+
+2. Mandamus 
+-it literally means 'Command'
+-this writ is issued in the nature of command by Judiciary against a public authority or a person holding a public office
+-the purpose of Mandamus is to command/order a public authority or official to do or not-to-do certain acts which are in the nature of public duty 
+-Mandamus can be issued to implement a public or a legal right but not a private right, it cannot be issued to President/Governor and can also not be used
+against a public authority in the case when the authority is making the use its discretionary powers
+
+3. Prohibition
+-it is a writ issued only against a Judicial or a Quasi-Judicial body to ensure that the body remains within the limits of its jurisdiction if such a body takes
+up a case by going beyong its jurisdiction that the writ of Prohibition is issued which prohibits them from proceeding with the case 
+
+4. Certiorari
+-it is similar to Prohibition except that it is issued to quash/kill a judgement/direction/order issued by a Judicial or Quasi-Judicial body by going beyond
+its jurisdiction
+
+5. Quo Warranto
+-it literally means 'What is your Authority?'
+-the purpose of this writ is to ensure that a person holding public office is qualified enough or competent enough to hold that office
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 32 vs Article 226
+
+Article 32
+-Article 32 is itself a fundamental right i.e. approaching SC for restoration of FRs is itself a FR
+-SC can issue writs only for the enforcement of FRs but not any other legal rights
+-Constitution places a duty on SC to enforce a FR if found violated, thus SC has to implement FRs if found violated
+-the writ jurisdiction of SC extends over whole of India 
+
+Article 226
+-approaching HC under Article 226 is not a FR
+-HC can issue writs not only for the emforcement of FRs but also for other legal rights
+-there is no such Constitutional boundation on HC's to implement FRs if found violated, therefore HC's may or may not implement these rights and may suggest
+some other remedy in place of implementing these rights
+-writ jurisdiction of HC is limited by territorial boundaries
+
+Conclusion - thus we can see that the writ jurisdiction of HCs is a bit more than SC as under Article 226 HCs can issue writs not only for restoration of FRs
+but also other legal rights, whereas under Article 32, SC has the power to issue writs only for restoration of FRs
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Part IV - Directive Principles of State Policy (DPSP) [Articles 36-51]
+
+-Part IV of the IC contains Directive Principles of State Policy which are in the nature of Directions to the Legislative & Executives Wings of the Govt. 
+which they must observe/follow while formulating the laws & policies
+-most of these principles aim at establishing, developing Social and Economic Democracy and thus they carry a concept of Welfare State as against the Police State
+-Directive Principles in the IC are based on Irish Constitution
+-Directive Principles have emerged along with the emergence of Constitutional form of govt. and it summarizes the ideals of People of India
+-Directive Principles are in the nature of instructions to the State and they carry the aims of people which the State must bear in mind while formulating
+laws and policies
+-Directive Principles are non-justiciable i.e. they cannot be enforced in the court of law and they are positive obligation on the State
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 38
+-State shall strive to promote a Social order in which Social, Economic and Political Justice prevails and minimise the inequality/gap in income and eliminate the 
+inequalities in status and opportunities
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 39	
+
+Article 39(a)
+-State must ensure that men and women equally have the right to means of livelihood
+
+Article 39(b)
+-the material resources of the society must be distributed in such a way so as to sub-serve the common good
+
+Article 39(c)
+-State must prevent Concentration of Wealth in few hands 
+
+Article 39(d)
+-State must ensure equal pay for equal work for both men and women
+
+Article 39(e)
+-People should not be forced by economic needs to take a vocation not suitable to their age or strength
+
+Article 39A
+-State must provide justice to all and free legal aid to poor 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 40
+-Organise village panchayats 
+
+Article 41
+-provide Right to Work and Education as well as assistance to old, sick and disabled
+
+Article 42
+-provide humane work condition and maternity relief
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 43
+-secure living wage and provide social, cultural opportunities to all workers and promote cottage industry 
+
+Article 43A
+-ensure participation of workers in the management of industries
+
+Article 43B
+-promote cooperative societies
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 44
+-uniform civil code
+
+Article 45
+-provide free and compulsory education for children till age 6 years 
+
+Article 46
+-promote educational and economic interest of SC/ST and other weaker section and prevent their exploitation
+
+Article 47
+-promote public health and nutrition and prohibit intoxicating drinks and drugs which are injurious 
+
+Article 48
+-organise agriculture and animal husbandry on modern scientific lines and prevent the slaughter of cow, calves and other milch and draught(load wearing) animals
+
+Article 48A
+-protect and improve enviroment, forest and wildlife
+
+Article 49
+-protect monuments, places and objects of artistic or historic interest
+
+Article 50
+-separate judiciary from executives in public services of the State
+
+Article 51
+-promote International Peace
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Relationship between Fundamental Rights & DPSP
+
+-Article 37 says that Directive Principles are not enforceable in a court of law, nevertheless they are fundamental in the governance of the country
+-it is the duty of the State to incorporate the DPSPs in policies formulated and law enacted 
+-SC in State of Madras vs Champakam Durairajan Case 1951 held that the law made to enforce the Directive Principles cannot overwrite Fundamental Rights 
+and they must confirm and run subsidiary to FRs
+-in case of any conflict between FRs and DPSPs, FRs will prevail over DPSP
+
+-however realising the importance of DPSPs in order to establish a welfare State, SC in Re-Kerala Education Bill Case 1957 adopted the theory of Harmonious 
+Construction and held that though DPSP cannot overwrite FRs, nevertheless in determining the scope and limits of FRs, courts cannot completely ignore the DPSPs
+and should interpret the case in such a way to give effect to both FRs and DPSP as much as possible because there is no inherent conflict between DPSP and FRs
+so it is the responsibility of the court to interpret the Constitution in such a way so as to implement the DPSPs along with ensuring non-violation of FRs 
+however if only 1 interpretation is possible then courts have no choice but to implement the FRs in preference to DPSPs
+
+-therefore on the basis of above interpretation, SC held Bank Nationalisation Act 1969 and Privy Purses Abolition Act 1971 which were enacted by Parliament to 
+give effect to Article 39(b) and 39(c) to be unconstitutional and void on the ground that these laws were violating FRs under Article 14, 19 and 31
+
+-however Parliament held that such an interpretation given by SC will block Social legislations in the larger interest of Society and to find a way out Parliament
+enacted 25th Amendment Act 1971 which introduced Article 31C which reads that if State enacts a law to give effect to 2 Directives under Article 39(b) and 39(c)
+and this law violates the FR under Article 14, 19 and 31 then the law cannot be held unconstitutional merely on this ground and such a law cannot be questioned 
+in the court of law
+
+-in Keshavananda Bharati vs State of Kerala Case 1973, the introduction of Article 31C through 25th Amendment Act was challenged but the court gave the judgement
+in the favour of Parliament by declaring 25th Amendment Act to be valid, however the struck down the provision which prevented the Judicial Review of such law
+
+-after this through 42nd Amendment Act 1976, Parliament again amended Article 31C which provided that if State enacts a law to give effect to all or any DPSPs
+and in that process the law violates the FRs under Article 14, 19 or 31 then the law shall not be held unconstitutional and void merely on this ground
+
+-subsequently through 44th Amendment Act 1978, Parliament removed Article 19(1)(f) and Article 31 from the list of FRs
+
+-now SC in Minerva Mills Case 1980 struck down the widening of Article 31 through 42nd Amendment Act 1976 by saying that this was disturbing the delicate balance 
+between DPSPs and FRs and this balance between Part III and Part IV is a part of Basic Structure of IC, court also clarified that the power of Judicial Review
+was the part of Basic Structure of the IC thus the present position is that under Article 31C only 2 Directives under Article 39(b) and 39(c) can prevail over
+2 FRs under Article 14 and 19
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Directives to State in IC outside Part IV of the IC
+-though Part IV of the IC formally deals with DPSP but there are some Directives which are enumerated/mentioned in other parts of the IC also, these Directives 
+are also non-justiciable by nature 
+
+Article 335 
+-it directs that the claims of SCs/STs shall be taken into consideration consistently along with maintenance of efficiency of administration while making appointments
+to the services of the govt.
+
+Article 350A
+-it directs the State and the local authorities within the State to provide adequate facilities for instruction in mother tongue till primary stage to the children
+of linguistic minorities 
+
+Article 351
+-it directs the govt. to promote the spread of Hindi so that it may serve as a medium of expression of all the elements of composite culture of India
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Uniform Civil Code 
+-it means all the sections of society irrespective of Religion shall be treated equally according to a National Civil Code which shall apply uniformly to all 
+and will be developed in a Scientific way as per modern values, Civil Code covers areas like Marriage, Divorce, Maintenance, Inheritance, Adoption etc.
+it will enhance the status of women and prevent her exploitation, issues like Marriage, Succession and similar matters are secular in nature and thus State
+can regulate them equally for all, they are not religious matters and thus UCC is not a violation of Article 25 and 26, many aspects of civil code are already 
+uniformly codified under Civil Procedures Code, Evidence Act, Transfer of Property Act etc which apply equally to all irrespective of religion and the goal of 
+UCC is to bring uniformity in the remaining areas which are personal in nature 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FRs vs DPSPs
+
+-FRs are enforceable in the court of law 
+-DPSPs are non-enforceable in the court of law
+
+-FRs are negative obligation of the State i.e. State is not to violate FRs
+-DPSPs are positive affirmation of the State i.e. State has a duty to realise the provisions of Part IV
+
+-FRs represent something Static where the basic rights have been conferred on the individual and the aim is only to conserve those rights 
+-DPSPs represent something Dynamic where the State has to keep on taking the actions in order to extend these rights to the people 
+
+-FRs provide for Political Democracy 
+-DPSPs seek to establish Social and Economic Democracy
+
+-FRs are given in strict legal language
+-DPSPs are given in genereal term
+
+-FRs promote welfare of individual and are thus personal and individualistic 
+-DPSPs promote the welfare of community and hence are societarian and socialistic
+
+-courts are bound to declare a law unconstitutional and void if the law violates the provisions of FRs
+-courts cannot declare a law unconstitutional only on the ground that the law is violative of provisions of DPSPs
+
+-FRs dont need laws to implement them, they are in themselves law
+-DPSPs require laws to implement them, they have no value by themselves
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Importance of DPSP
+
+-it is the Directive Principles which if implemented well have a potential to establish a Welfaric State
+-Dr BR Ambedkar pointed out that a govt. which is responsible to people shall have to implement these principles otherwise it will be answerable to people 
+in the next election thus these principles may not be enforceable in the court of law but they are certainly enforceable in the court of people 
+-these principles may not enjoy legal sanctions/punishment but they enjoy political sanctions 
+-these principles act as a light house constantly reminding the govt. of the day about their responsibilities of taking the country towards Welfarism
+-these principles act as a testing ground to measure the performance of the govt.
+-these principles bring uniformity in the overall political approach of Indian State no matter which political party is in power
+-Directive Principles have not been given legal enforceability not because they are inferior to any other part of the IC but because these principles require
+time and material resources at the disposal of the State which cannot be achieved in a fixed time frame
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Part V - The Union [Article 52 - 151]
+
+Chapter I - The Executive
+
+The President of India [Article 52 - 62]
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 52 - The President of India
+-There shall be a President of India
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 53
+-it confers the Executive Powers of the Union in the President of India and he shall discharge these powers either directly or through officers sub-ordinate to him
+according the Constitution
+-President is the Executive Head of the Union as well as the 'Highest Constitutional Functionary'
+-all decisions of the Union Executive are taken in the name of President because of Article 53
+-he is regarded as the first citizen of India and the Supreme Commander of Armed Forces
+-the executive powers vested/given in the President are to be excercised by him on the advice of Council of Ministers according to Article 74 of the IC
+-Article 74 in original form read about a COM headed by Prime Minister to aid and advice the President but it did not explicitly state that President was bound
+by the advice
+-42nd Amendment Act 1976 amended Article 74 and in amended form it made the President bound by the advice of COM
+-44th Amendment Act 1978 again amended Article 74 and added a provision that President may ask the COM to re-consider the advice but the President shall act
+in accordance with the advice given to him after such re-consideration
+-though President is not a member of either house of the Parliament but he is very much a part of Parliament evident from the fact that without his assent
+the bill does not become an act
+-only President summons/calls the sessions of the Parliament and he prorogues/calls of the houses of the Parliament
+-he has a power to dissolve Lok Sabha
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 58 - Qualifications for Election as President
+-the candidate must be citizen of India
+-age not less than 35 years 
+-he must be qualified to be elected to Lok Sabha
+-he should not be holding any office of Profit under the State
+-however for the purpose of the office of President, the President, Vice President, Governor, Minister is not considered as holding office of Profit
+-if the President elect is MP or MLA or MLC, he is deemed to have vacated his seat in the legislature before entering the office of the President
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 54 - Election of President 
+-under Article 54, President of India is elected indirectly through an electoral college (group of voters) consisting of elected members of both the houses of the
+Parliament and the elected members of the State Legislative Assemblies
+-after 70th Amendment Act 1992, the expression 'States started to include the Union Territories of Delhi and Pondicherry as well'
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 55 - Manner of Election of President
+-the States on one hand and Parliament on another are equally represented in the electoral college which means that President represents the Nation and also the 
+State at federal(National) level
+-President of India is elected through a system called 'Proportional Representation through Single Transferable Vote System' and the voting shall be held through
+Secret Ballot  
+
+Proportional Representational System
+-it means that States are represented in the electoral college of the President in accordance with the population of the State as per 1971 census 
+
+Formula
+
+Vote value of 1 Elected MLA of specific State =     Total Population of that State      X 1
+						            --------------------------------------- -----
+						            Total no. of Elected MLAs in that State  1000
+
+			 Vote value of 1 Elected MP = Total vote value of all elected MLAs
+							      ------------------------------------
+				         			     Total no. of elected MPs
+
+		    Vote value of all elected MPs = Vote value of all elected MLAs
+
+Note
+-as the vote value is directly proportional to the population of the State, it gives an edge to more populous States over less populous ones
+-Southern States that have worked to control their population demanded parity of vote value
+-considering that Parliament made a provision through 84th Amendment Act 2001 stating that
+-Population of 1971 will be taken into account because at this time all the State were growing uniformly in terms of Population and this will remain so till 2026
+-the vote value of MP in electoral college of President is same all across whether he is from UP, Bihar, Kerala or Sikkim, Lok Sabha or Rajya Sabha
+-but the vote value of MLA's in electoral college of President differ from State-to-State because that depends upon the population of the State
+-MLC are not involved in the election of President as only 6 States have MLCs, also MLA are directly elected by people while MLC may not be directly elected by people
+
+Single Transferable Vote System
+
+-under this system the elector has a right to indicate more than one preference of the candidate and he can indicate as many preferences as there are candidates 
+in the contest
+-in the first round of counting only the first preference votes are considered and if a candidate obtains more than 50% of the valid votes he will win 
+if not then the candidate with least no. of first preference votes is eliminated and the second preferences of his votes are distributed among the rest of the 
+candidates and again a majority of 50% is seen
+-this process continues till a candidate wins with majority
+
+Note
+-Whip is a binding on the members of a political party to follow the party's direction
+-in the election of President, Whip is not issued to the voters as whom to vote for
+-the MLAs of a suspended assembly vote during the elections of the President
+-however if a particular Legislative Assembly has been dissolved then that State will no participate in the election of President
+
+Note
+-The Secretary General Lok Sabha and The Secretary General Rajya Sabha act as ex-officio Returning Officer of the Presidential and Vice-Presidential Election
+and they take turns to preside over the Presidential and Vice-Presidential Elections
+-The Nomination Paper of the Presidential candidate shall be proposed by not less than 50 electors/voters(MP/MLAs) and it shall be seconded by another not less
+than 50 electors
+-Candidate has to pay a security deposit of Rs. 15000 
+-the disputes relating to the Presidential election shall be heard by SC whose decision is final and binding, if in case the election of President is declared void
+on any ground then the decisions taken in his name prior to that shall not become invalid on this ground
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 61 - Procedure for Impeachment of the President
+
+-under Article 61, President of India is impeached by Parliament on the grounds of violation of IC
+-however IC didn't describe what acts of the President amount to violation of IC
+-it is thus a political determination to be made by Parliament
+-the motion seeking the impeachment of the President shall be introduced in form of a resolution in either house of the Parliament
+-in order to be introduced, the resolution must be supported by not less than 1/4th of the total membership of the house 
+-the resolution can be taken up in the house for passage only after the expiry of 14 days notice
+-the motion is passed in the house by a majority of not less than 2/3rd  of the total membership of the house
+-once it is passed in the house, it is transmitted to the other house which acts as the investigating house 
+-the second house investigates the charges against the President or may cause the charges to be investigated 
+-President has a right to defend himself or through an attorney/lawyer of his choice before the second house
+-the functions performed by the second house are quasi-judicidal in nature 
+-after investigation if the second house also passes the motion by a majority of not less than 2/3rd of the total membership of the house, then the 
+President stands impeached
+-there can be judicial review of Presidential Impeachment
+-the decisions taken by the President or in his name will not become invalid after the impeachment only due to the act of impeachment
+-Impeachment of the President is a legislative action whereas removal of other officers like SC/HC Judges, CAG, Governor etc is an executive action because
+it is being done by the Executive Head of India
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------- 

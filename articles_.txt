@@ -1,38 +1,59 @@
 Articles
-Article 3: Center can change the name, area or boundary of any State
-Article 13: it deals with the laws inconsistent with or in derogation of the fundamental rights
-(1) all the laws enforced in India before the commencement of the Constitution shall be unconstitutional and void, if they violate 1 or more
+
+Article 3 - Center can change the name, area or boundary of any State
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 13 - it deals with the laws inconsistent with or in derogation of the fundamental rights
+
+Article 13(1)
+-all the laws enforced in India before the commencement of the Constitution shall be unconstitutional and void, if they violate 1 or more
 than 1 provisions of part 3 of the Constitution i.e. Fundamental Rights, to the extent of such violation
-(2) State shall not make any 'LAW' that takes away or abridges/reducing importance 1 or more FRs and if such a law is passed, if such a law is 
+
+Article 13(2)
+-State shall not make any 'LAW' that takes away or abridges/reducing importance 1 or more FRs and if such a law is passed, if such a law is 
 passed, then the law shall be unconstitutional and void to the extent of the inconsistency
-Article 14: Right to Equality
-Article 15: Right against Discrimination
-Article 16: Right to Public Employment 
-Article 17: Right against untouchability
-Article 19: Right to freedom
-Article 21: Right to life
-Article 21A: Right to Education, State shall provide free and compulsory education of all children in the age group of 6 to 14 years as a Fundamental Right
-Article 23: Prohibition of traffic in human beings and forced labour
-Article 24: No child below the age of 14 years shall be employed to work in any factory or mine or engaged in any other hazardous employment
-Article 25: Right to Religion
-Article 155: Governor of a State is appointed by the President
-Article 248: Residuary powers of legislation
-(i) Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List
-(ii) Such power shall include the power of making any law imposing a tax not mentioned in either of those Lists
-Article 249: Rajya Sabha can pass a resolution by 2/3rd majority to tranfer legislative of State's Subjects to the Parliament for National Interest
-Article 250: Under National Emergency, State's Legislative list becomes concurrent and Center's law prevails over State's law
-Article 252: 2 or more States can request Center to make State's list law for them
-Article 253: Parliament can pass a law on a subject of State list with or without the consent of the State for implementation of International Treaties 
-Article 256/257: Center can direct the States regarding running for their administration, and States are binding upon such direction
-Article 300A: Right to Property 
-Article 301: Right to have free trade, commerce and intercourse all across India
-Article 312: Talks about All India Services(AIS)[IAS, IPS, IFS]
-Article 326: [Universal Adult Suffrage] Right to vote and contest elections
-Article 352: the President can declare a national emergency when the security of India or a part of it is threatened by war or external aggression or armed rebellion
-Article 356: [President's rule] if a state government is unable to function according to Constitutional provisions the Union government can take direct control 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 14 - Right to Equality
+Article 15 - Right against Discrimination
+Article 16 - Right to Public Employment 
+Article 17 - Right against untouchability
+Article 19 - Right to freedom
+Article 21 - Right to life
+Article 21A - Right to Education, State shall provide free and compulsory education of all children in the age group of 6 to 14 years as a Fundamental Right
+Article 23 - Prohibition of traffic in human beings and forced labour
+Article 24 - No child below the age of 14 years shall be employed to work in any factory or mine or engaged in any other hazardous employment
+Article 25 - Right to Religion
+Article 51 - Promotes International Peace
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 74
+-it says that there shall be a council of ministers with the Prime Minister at the head to aid and advise the President who ‘shall’, 
+in the exercise of his functions, act in accordance with such advice
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 123 - President can issue an Ordinance on the advice of COM
+Article 155 - Governor of a State is appointed by the President
+Article 213 - Governor of a State can issue an Ordinance on the advice of COM of the State
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 248 - Residuary powers of legislation
+
+Article 248(1) 
+-Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List
+
+Article 248(2) 
+-Such power shall include the power of making any law imposing a tax not mentioned in either of those Lists
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Article 249 - Rajya Sabha can pass a resolution by 2/3rd majority to tranfer legislative of State's Subjects to the Parliament for National Interest
+Article 250 - Under National Emergency, State's Legislative list becomes concurrent and Center's law prevails over State's law
+Article 252 - 2 or more States can request Center to make State's list law for them
+Article 253 - Parliament can pass a law on a subject of State list with or without the consent of the State for implementation of International Treaties 
+Article 256/257 - Center can direct the States regarding running for their administration, and States are binding upon such direction
+Article 300A - Right to Property 
+Article 301 - Right to have free trade, commerce and intercourse all across India
+Article 312 - Talks about All India Services(AIS)[IAS, IPS, IFS]
+Article 326 - [Universal Adult Suffrage] Right to vote and contest elections
+Article 352 - the President can declare a national emergency when the security of India or a part of it is threatened by war or external aggression or armed rebellion
+Article 356 - [President's rule] if a state government is unable to function according to Constitutional provisions the Union government can take direct control 
 of the state machinery and Parliament gets exclusive legislative jurisdiction with respect to the subjects of the State list for the concerned State
-Article 365: it imposes the President’s rule on a state that fails to comply with the directions given to it by the union government.
-Article 368: it gives provision to amend the Constitution of India
+Article 365 - it imposes the President’s rule on a state that fails to comply with the directions given to it by the union government.
+Article 368 - it gives provision to amend the Constitution of India
 
 Schedules
-Schedule 7: division of legislative powers among Center and State by making Center list, State list and Concurrent list
+Schedule 7 - division of legislative powers among Center and State by making Center list, State list and Concurrent list
